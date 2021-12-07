@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ogFAUFXLxkbb0XGN/uJrDD+oLMsGXi/gstv4kvunAP7iRaseJDg3p0kaBUisHWLyCCoXDdi/Cx5lhortY8EJmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arun\\Documents\\Kubernative\\Docker_ASPWEPAPICORE_Day1_12Dec\\Docker_ASPWEPAPICORE_Day1_12Dec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arun\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
