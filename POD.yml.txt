@@ -9,4 +9,4 @@ spec:Q
     - name: web-ctr
       image: 991080/arunimages:kdapi
       ports:
-        - containerPort: 8080
+        - containerPort: 9088
