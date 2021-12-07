@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: hello-pod
+  labels:
+    app: web
+spec:Q
+  containers:
+    - name: web-ctr
+      image: 991080/arunimages:kdapi
+      ports:
+        - containerPort: 8080
