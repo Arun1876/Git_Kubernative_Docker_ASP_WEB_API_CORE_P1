@@ -11,5 +11,3 @@ spec:
     targetPort: 8080
   selector:
     app: web
-© 2021 GitHub, Inc.
-Terms
